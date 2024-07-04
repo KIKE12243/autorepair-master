@@ -51,12 +51,12 @@
 li.ui-timepicker-selected,
 .ui-timepicker-list li:hover,
 .ui-timepicker-list .ui-timepicker-selected:hover {
-	background: #1980EC; color: #fff;
+	background: hsl(92, 89%, 40%); color: #fff;
 }
 
 li.ui-timepicker-selected .ui-timepicker-duration,
 .ui-timepicker-list li:hover .ui-timepicker-duration {
-	color: #ccc;
+	color: 	#cccccc;
 }
 
 .ui-timepicker-list li.ui-timepicker-disabled,
